@@ -4,7 +4,7 @@
 
 🔹 Passionate about building scalable web applications and solving complex problems.  
 🔹 Experienced in **JavaScript, Node.js, React, Express, MongoDB, and more**.  
-🔹 Currently exploring **React Native, Web3, and AI-powered applications**.  
+🔹 Currently exploring **React Native, PWA, Web3, and AI-powered applications**.  
 🔹 Love collaborating on **open-source projects** and learning new technologies.  
 
 ---
